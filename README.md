@@ -35,3 +35,6 @@ Programs
   * Easily my most complex game. Local multiplayer space shooter with missiles,
     shields, and even a computer player. I can't figure out what most of the
     weapons do.
+* InOS
+  * An "advanced" windowing system that I was going to use to take over the
+    world. Then Bill Gates beat me to it.
